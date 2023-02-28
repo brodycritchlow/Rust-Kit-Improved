@@ -1,0 +1,3 @@
+class UnwrapError(Exception):
+    ...
+
